@@ -20,12 +20,12 @@ int main() {
     // Variáveis da Carta 1
     char estado1[2], codigo1[5], cidade1[50];
     int populacao1, pontosTuristicos1;
-    float area1, PIB1;
+    float area1, PIB1, densidadepopulacional1, PIBpercapita1;
 
     // Variáveis da Carta 2
     char estado2[2], codigo2[5], cidade2[50];
     int populacao2, pontosTuristicos2;
-    float area2, PIB2;
+    float area2, PIB2, densidadepopulacional2, PIBpercapita2;
 
      // Cadastro da Carta 1
     printf("Cadastro da Carta 1\n");
